@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @thaiy-lee
+- 👋 Hi, I’m @thaiy-lee, people call me Thai.
 - 👀 I’m interested in badminton and gaming.
 - 🌱 I’m currently learning Javascript and to be a full stack engineer.
 - 💞️ I’m looking to collaborate on "Mixed Messages".
